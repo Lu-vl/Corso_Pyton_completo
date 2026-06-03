@@ -56,7 +56,7 @@ else:
     print("errore, devi rispondere (si o no)")
 '''
 
-costo_snack = 5
+'''costo_snack = 5
 budget_cliente = input("Quanti soldi hai nel portafoglio? ")
 budget = float(budget_cliente)
 
@@ -65,4 +65,21 @@ if budget >= costo_snack:
 elif budget > 0 and budget <= 4.99:
     print("Peccato, i soldi  non bastano... 😕 scegli un altro snack ")
 else:
-    print("Sei al verde! Non puoi comprare nessuno snack 😫")
+    print("Sei al verde! Non puoi comprare nessuno snack 😫")'''
+
+#print(Studenti[-1])
+
+#rimuovere elementi
+#Studenti.remove(Studenti[4])
+#print(Studenti)
+
+#Studenti.append("Teresa")
+#print(Studenti)
+#Studenti.remove("Teresa")
+#print(Studenti)
+
+# Modifica elementi
+#Studenti[0] = "Kevin"
+#print(Studenti[0])
+
+# Luigia
